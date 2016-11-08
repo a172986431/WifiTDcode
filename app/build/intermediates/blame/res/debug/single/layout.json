@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/elang/workSpace/WifiTDcode/app/build/intermediates/res/merged/debug/layout/activity_capture.xml",
+        "source": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/layout/activity_capture.xml"
+    },
+    {
+        "merged": "/Users/elang/workSpace/WifiTDcode/app/build/intermediates/res/merged/debug/layout/activity_loading.xml",
+        "source": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/layout/activity_loading.xml"
+    },
+    {
+        "merged": "/Users/elang/workSpace/WifiTDcode/app/build/intermediates/res/merged/debug/layout/dialog_message.xml",
+        "source": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/layout/dialog_message.xml"
+    },
+    {
+        "merged": "/Users/elang/workSpace/WifiTDcode/app/build/intermediates/res/merged/debug/layout/activity_make_wifi_tdcode.xml",
+        "source": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/layout/activity_make_wifi_tdcode.xml"
+    },
+    {
+        "merged": "/Users/elang/workSpace/WifiTDcode/app/build/intermediates/res/merged/debug/layout/activity_title.xml",
+        "source": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/layout/activity_title.xml"
+    },
+    {
+        "merged": "/Users/elang/workSpace/WifiTDcode/app/build/intermediates/res/merged/debug/layout/activity_save_tdcode.xml",
+        "source": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/layout/activity_save_tdcode.xml"
+    },
+    {
+        "merged": "/Users/elang/workSpace/WifiTDcode/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/layout/activity_main.xml"
+    }
+]

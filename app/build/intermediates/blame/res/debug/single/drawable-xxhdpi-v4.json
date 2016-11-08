@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/elang/workSpace/WifiTDcode/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/loading.jpg",
+        "source": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/drawable-xxhdpi/loading.jpg"
+    },
+    {
+        "merged": "/Users/elang/workSpace/WifiTDcode/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/main_bg.jpg",
+        "source": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/drawable-xxhdpi/main_bg.jpg"
+    }
+]

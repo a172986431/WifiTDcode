@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/elang/workSpace/WifiTDcode/app/build/intermediates/res/merged/debug/raw/realm_properties",
+        "source": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/raw/realm_properties"
+    },
+    {
+        "merged": "/Users/elang/workSpace/WifiTDcode/app/build/intermediates/res/merged/debug/raw/beep.ogg",
+        "source": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/raw/beep.ogg"
+    }
+]

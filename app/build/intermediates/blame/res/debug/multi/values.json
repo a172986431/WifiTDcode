@@ -1,0 +1,646 @@
+[
+    {
+        "outputFile": "/Users/elang/workSpace/WifiTDcode/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 49,
+                        "endOffset": 64
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 58,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 172,
+                        "endColumn": 58,
+                        "endOffset": 226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 164,
+                    "endColumn": 47,
+                    "endOffset": 207
+                },
+                "from": {
+                    "file": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 70,
+                        "endColumn": 47,
+                        "endOffset": 113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 212,
+                    "endColumn": 51,
+                    "endOffset": 259
+                },
+                "from": {
+                    "file": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 119,
+                        "endColumn": 51,
+                        "endOffset": 166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 449,
+                    "endColumn": 58,
+                    "endOffset": 503
+                },
+                "from": {
+                    "file": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 2,
+                        "startOffset": 1265,
+                        "endColumn": 56,
+                        "endOffset": 1319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 508,
+                    "endColumn": 39,
+                    "endOffset": 543
+                },
+                "from": {
+                    "file": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 656,
+                        "endColumn": 37,
+                        "endOffset": 691
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 548,
+                    "endColumn": 35,
+                    "endOffset": 579
+                },
+                "from": {
+                    "file": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 694,
+                        "endColumn": 33,
+                        "endOffset": 725
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 584,
+                    "endColumn": 42,
+                    "endOffset": 622
+                },
+                "from": {
+                    "file": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 728,
+                        "endColumn": 40,
+                        "endOffset": 766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 627,
+                    "endColumn": 45,
+                    "endOffset": 668
+                },
+                "from": {
+                    "file": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 769,
+                        "endColumn": 43,
+                        "endOffset": 810
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 673,
+                    "endColumn": 42,
+                    "endOffset": 711
+                },
+                "from": {
+                    "file": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 813,
+                        "endColumn": 40,
+                        "endOffset": 851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 716,
+                    "endColumn": 45,
+                    "endOffset": 757
+                },
+                "from": {
+                    "file": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 854,
+                        "endColumn": 43,
+                        "endOffset": 895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 762,
+                    "endColumn": 37,
+                    "endOffset": 795
+                },
+                "from": {
+                    "file": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 2,
+                        "startOffset": 1189,
+                        "endColumn": 36,
+                        "endOffset": 1223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 800,
+                    "endColumn": 49,
+                    "endOffset": 845
+                },
+                "from": {
+                    "file": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 2,
+                        "startOffset": 898,
+                        "endColumn": 47,
+                        "endOffset": 943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 850,
+                    "endColumn": 33,
+                    "endOffset": 879
+                },
+                "from": {
+                    "file": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 2,
+                        "startOffset": 946,
+                        "endColumn": 31,
+                        "endOffset": 975
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 884,
+                    "endColumn": 44,
+                    "endOffset": 924
+                },
+                "from": {
+                    "file": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 2,
+                        "startOffset": 978,
+                        "endColumn": 42,
+                        "endOffset": 1018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 929,
+                    "endColumn": 47,
+                    "endOffset": 972
+                },
+                "from": {
+                    "file": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 2,
+                        "startOffset": 1021,
+                        "endColumn": 45,
+                        "endOffset": 1064
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 977,
+                    "endColumn": 56,
+                    "endOffset": 1029
+                },
+                "from": {
+                    "file": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 2,
+                        "startOffset": 1067,
+                        "endColumn": 54,
+                        "endOffset": 1119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1034,
+                    "endColumn": 59,
+                    "endOffset": 1089
+                },
+                "from": {
+                    "file": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 2,
+                        "startOffset": 1122,
+                        "endColumn": 57,
+                        "endOffset": 1177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1094,
+                    "endColumn": 45,
+                    "endOffset": 1135
+                },
+                "from": {
+                    "file": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 2,
+                        "startOffset": 1322,
+                        "endColumn": 43,
+                        "endOffset": 1363
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1140,
+                    "endColumn": 36,
+                    "endOffset": 1172
+                },
+                "from": {
+                    "file": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 2,
+                        "startOffset": 1226,
+                        "endColumn": 35,
+                        "endOffset": 1259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1177,
+                    "endColumn": 44,
+                    "endOffset": 1217
+                },
+                "from": {
+                    "file": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 44,
+                        "endOffset": 98
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1222,
+                    "endColumn": 52,
+                    "endOffset": 1270
+                },
+                "from": {
+                    "file": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 104,
+                        "endColumn": 52,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1275,
+                    "endColumn": 50,
+                    "endOffset": 1321
+                },
+                "from": {
+                    "file": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 50,
+                        "endOffset": 204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1326,
+                    "endColumn": 54,
+                    "endOffset": 1376
+                },
+                "from": {
+                    "file": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 209,
+                        "endColumn": 54,
+                        "endOffset": 259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1381,
+                    "endColumn": 30,
+                    "endOffset": 1407
+                },
+                "from": {
+                    "file": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1515,
+                        "endColumn": 31,
+                        "endOffset": 1542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1412,
+                    "endColumn": 40,
+                    "endOffset": 1448
+                },
+                "from": {
+                    "file": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 1,
+                        "startOffset": 1544,
+                        "endColumn": 38,
+                        "endOffset": 1581
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1453,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 1740
+                },
+                "from": {
+                    "file": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 231,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 522
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1745,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 1900
+                },
+                "from": {
+                    "file": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 563,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1905,
+                    "endLine": 46,
+                    "endColumn": 12,
+                    "endOffset": 2228
+                },
+                "from": {
+                    "file": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1113,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 1442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2233,
+                    "endColumn": 35,
+                    "endOffset": 2264
+                },
+                "from": {
+                    "file": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1450,
+                        "endColumn": 36,
+                        "endOffset": 1482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2269,
+                    "endLine": 57,
+                    "endColumn": 12,
+                    "endOffset": 2844
+                },
+                "from": {
+                    "file": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 1,
+                        "startOffset": 1798,
+                        "endLine": 57,
+                        "endColumn": 12,
+                        "endOffset": 2373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 2849,
+                    "endLine": 65,
+                    "endColumn": 12,
+                    "endOffset": 3232
+                },
+                "from": {
+                    "file": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 2378,
+                        "endLine": 65,
+                        "endColumn": 12,
+                        "endOffset": 2761
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 3237,
+                    "endLine": 69,
+                    "endColumn": 12,
+                    "endOffset": 3438
+                },
+                "from": {
+                    "file": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 2767,
+                        "endLine": 70,
+                        "endColumn": 12,
+                        "endOffset": 2968
+                    }
+                }
+            }
+        ]
+    }
+]

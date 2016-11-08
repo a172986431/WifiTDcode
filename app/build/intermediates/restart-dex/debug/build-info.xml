@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="24"
+    density="420dpi"
+    format="8"
+    plugin-version="2.2.1"
+    timestamp="37558394045808"
+    token="-953274593319118875"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="105" />
+    <task
+        name="instant-run-dex"
+        duration="1008" />
+    <task
+        name="instant-run-transform"
+        duration="22" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="/Users/elang/workSpace/WifiTDcode/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/Users/elang/workSpace/WifiTDcode/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="30185460991513"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/elang/workSpace/WifiTDcode/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="37192018651401"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/elang/workSpace/WifiTDcode/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="37222894767627"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/elang/workSpace/WifiTDcode/app/build/intermediates/builds/debug/37222894767627/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="37240675338271"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/elang/workSpace/WifiTDcode/app/build/intermediates/builds/debug/37240675338271/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="37253760130187"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/elang/workSpace/WifiTDcode/app/build/intermediates/builds/debug/37253760130187/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="37266784741519"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/elang/workSpace/WifiTDcode/app/build/intermediates/builds/debug/37266784741519/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="37278697508828"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/elang/workSpace/WifiTDcode/app/build/intermediates/builds/debug/37278697508828/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="37288679536708"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/elang/workSpace/WifiTDcode/app/build/intermediates/builds/debug/37288679536708/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="37298867906642"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/elang/workSpace/WifiTDcode/app/build/intermediates/builds/debug/37298867906642/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="37558394045808"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/elang/workSpace/WifiTDcode/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/Users/elang/workSpace/WifiTDcode/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/elang/workSpace/WifiTDcode/app/libs/YoumiSdk_v4.08_2014-05-15.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="608bbaefa22cd1269a4ad33236e0c71639ad1ff4">
+        <dex dex="/Users/elang/workSpace/WifiTDcode/app/build/intermediates/transforms/dex/debug/folders/1000/2/YoumiSdk_v4.08_2014-05-15_cd881df79e656ab83dbc82ed03f4fa83b07e9487/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/elang/workSpace/WifiTDcode/app/libs/umeng-sdk-analytics_v5.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c4ccdd861cf01a64a0c19e5232de8cc0e4927f5b">
+        <dex dex="/Users/elang/workSpace/WifiTDcode/app/build/intermediates/transforms/dex/debug/folders/1000/2/umeng-sdk-analytics_v5.2.2_1a0fed4e83ac3448ee1ddafcaaab11c4b2486791/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/elang/workSpace/WifiTDcode/app/libs/core-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="80a402b12accd66d4be7e5dbcb44e42baa0bdd7c">
+        <dex dex="/Users/elang/workSpace/WifiTDcode/app/build/intermediates/transforms/dex/debug/folders/1000/2/core-2.3.0_5955d7e2e771ed6e1dcadec500bce4a2122fd9cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/elang/workSpace/WifiTDcode/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e59d400bafe0f3d1679f9a26d7f40509149b990b">
+        <dex dex="/Users/elang/workSpace/WifiTDcode/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_77ec4dd85b84569b372ed45a64d01ff589d8960a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/elang/workSpace/WifiTDcode/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="896382ee71ce96fdfb3835d6284d17657c02030a">
+        <dex dex="/Users/elang/workSpace/WifiTDcode/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8e4c11fb22a84b8222159b612e5e28e9f993dc3a/classes.dex" />
+    </item>
+
+</items>

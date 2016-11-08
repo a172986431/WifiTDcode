@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/elang/workSpace/WifiTDcode/app/build/intermediates/res/merged/debug/drawable-hdpi/mmtitle_bg_alpha.9.png",
+        "source": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/drawable-hdpi/mmtitle_bg_alpha.9.png"
+    },
+    {
+        "merged": "/Users/elang/workSpace/WifiTDcode/app/build/intermediates/res/merged/debug/drawable-hdpi/mm_title_back_pressed.9.png",
+        "source": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/drawable-hdpi/mm_title_back_pressed.9.png"
+    },
+    {
+        "merged": "/Users/elang/workSpace/WifiTDcode/app/build/intermediates/res/merged/debug/drawable-hdpi/mm_title_back_normal.9.png",
+        "source": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/drawable-hdpi/mm_title_back_normal.9.png"
+    },
+    {
+        "merged": "/Users/elang/workSpace/WifiTDcode/app/build/intermediates/res/merged/debug/drawable-hdpi/mm_title_back_focused.9.png",
+        "source": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/drawable-hdpi/mm_title_back_focused.9.png"
+    },
+    {
+        "merged": "/Users/elang/workSpace/WifiTDcode/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]

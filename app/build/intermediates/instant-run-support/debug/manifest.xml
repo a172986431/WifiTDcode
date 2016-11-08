@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.suwen.wifitdcode"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="16" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- 访问网络状态的权限 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- 读写存储卡的权限 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!-- 访问WIFI网络状态的权限 -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <!-- 改变WIFI网络状态的权限 -->
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+
+    <application
+        name="com.suwen.wifitdcode.app.WIfiTDcodeApp"
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.suwen.wifitdcode.LoadingActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.suwen.wifitdcode.MainActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.suwen.wifitdcode.MakeWifiTDcodeActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name="com.suwen.wifitdcode.MipcaActivityCapture"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.suwen.wifitdcode.SaveTDcodeActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+
+        <!-- 有米广告组件配置 -->
+        <activity
+            android:name="net.youmi.android.AdBrowser"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:theme="@android:style/Theme.Light.NoTitleBar" >
+        </activity>
+
+        <service
+            android:name="net.youmi.android.AdService"
+            android:exported="false" >
+        </service>
+        <service
+            android:name="net.youmi.android.ExpService"
+            android:exported="false" >
+        </service>
+
+        <receiver android:name="net.youmi.android.AdReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_ADDED" />
+
+                <data android:scheme="package" />
+            </intent-filter>
+        </receiver>
+
+        <!-- 友盟统计 -->
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="537b730456240b72bc027268" >
+        </meta-data>
+        <meta-data
+            android:name="UMENG_CHANNEL"
+            android:value="youmi" >
+        </meta-data>
+    </application>
+
+</manifest>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/elang/workSpace/WifiTDcode/app/build/intermediates/res/merged/debug/anim/button_shrink.xml",
+        "source": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/anim/button_shrink.xml"
+    },
+    {
+        "merged": "/Users/elang/workSpace/WifiTDcode/app/build/intermediates/res/merged/debug/anim/button_touched.xml",
+        "source": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/anim/button_touched.xml"
+    },
+    {
+        "merged": "/Users/elang/workSpace/WifiTDcode/app/build/intermediates/res/merged/debug/anim/button_zoom.xml",
+        "source": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/anim/button_zoom.xml"
+    }
+]

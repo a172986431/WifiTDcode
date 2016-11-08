@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/elang/workSpace/WifiTDcode/app/build/intermediates/res/merged/debug/drawable/radio_button.xml",
+        "source": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/drawable/radio_button.xml"
+    },
+    {
+        "merged": "/Users/elang/workSpace/WifiTDcode/app/build/intermediates/res/merged/debug/drawable/mm_title_back_btn.xml",
+        "source": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/drawable/mm_title_back_btn.xml"
+    },
+    {
+        "merged": "/Users/elang/workSpace/WifiTDcode/app/build/intermediates/res/merged/debug/drawable/make_sure_button.xml",
+        "source": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/drawable/make_sure_button.xml"
+    },
+    {
+        "merged": "/Users/elang/workSpace/WifiTDcode/app/build/intermediates/res/merged/debug/drawable/check_select.xml",
+        "source": "/Users/elang/workSpace/WifiTDcode/app/src/main/res/drawable/check_select.xml"
+    }
+]

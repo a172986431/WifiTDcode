@@ -1,0 +1,7 @@
+#Tue Nov 08 16:42:22 CST 2016
+base.0=/Users/elang/workSpace/WifiTDcode/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_77ec4dd85b84569b372ed45a64d01ff589d8960a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/elang/workSpace/WifiTDcode/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8e4c11fb22a84b8222159b612e5e28e9f993dc3a/classes.dex
+base.1=/Users/elang/workSpace/WifiTDcode/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8e4c11fb22a84b8222159b612e5e28e9f993dc3a
+file.0=/Users/elang/workSpace/WifiTDcode/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_77ec4dd85b84569b372ed45a64d01ff589d8960a/classes.dex
